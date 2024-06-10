@@ -1,0 +1,16 @@
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore dependencies
+node_modules/
+vendor/
+
+# Ignore compiled files
+*.log
+*.out
+*.class
