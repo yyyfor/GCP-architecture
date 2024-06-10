@@ -2,8 +2,8 @@
 https://www.cloudskillsboost.google/course_templates/648
 
 ## Links
-https://cloud.google.com/load-balancing/docs/network/networklb-backend-service#xpn-architecture
-https://cloud.google.com/load-balancing/docs/network/setting-up-network-backend-service
+- https://cloud.google.com/load-balancing/docs/network/networklb-backend-service#xpn-architecture
+- https://cloud.google.com/load-balancing/docs/network/setting-up-network-backend-service
 
 ## Script
 ```
